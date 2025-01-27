@@ -1,18 +1,18 @@
 # 1. Solidify Python Fundamentals
-	## 1.	Basic Syntax
-	*Variables and basic data types (int, float, bool, str, etc.), conditionals, loops, function definitions.
-	*Common built-in containers: list, tuple, dict, set, along with their performance characteristics.
-	*String handling: common methods, regular expressions (re module).
-	*A good starting point is the Official Python Tutorial, which is both authoritative and free.
-	## 2.	Object-Oriented Programming (OOP)
-	•	Classes, objects, inheritance, polymorphism, special methods (__init__, __str__, __getitem__, etc.).
-	•	How Python’s dynamic typing and “Duck Typing” differ from OOP in languages like Java or C++.
-	## 3.	Code Style and Conventions
-	•	PEP 8: Python’s official style guide, e.g., naming conventions, indentation, import order.
-	•	Linting/formatting tools: flake8, pylint, or black (auto-formatting) to keep your code clean.
-	•	The Google Python Style Guide is another solid reference.
+## 1.	Basic Syntax
+1. Variables and basic data types (int, float, bool, str, etc.), conditionals, loops, function definitions.
+2. Common built-in containers: list, tuple, dict, set, along with their performance characteristics.
+3. String handling: common methods, regular expressions (re module).
+*A good starting point is the Official Python Tutorial, which is both authoritative and free.
+## 2.	Object-Oriented Programming (OOP)
+*Classes, objects, inheritance, polymorphism, special methods (__init__, __str__, __getitem__, etc.).
+*How Python’s dynamic typing and “Duck Typing” differ from OOP in languages like Java or C++.
+## 3.	Code Style and Conventions
+*PEP 8: Python’s official style guide, e.g., naming conventions, indentation, import order.
+*Linting/formatting tools: flake8, pylint, or black (auto-formatting) to keep your code clean.
+*The Google Python Style Guide is another solid reference.
 
-	## Goal: Write Python code with clear structure and readability, master core language concepts, and be able to use built-in data structures effectively for small projects.
+## Goal: Write Python code with clear structure and readability, master core language concepts, and be able to use built-in data structures effectively for small projects.
 
 # 2. Advanced Features and Useful Modules
 	1.	Functional Programming & “Syntactic Sugar”
